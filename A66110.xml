@@ -1,0 +1,291 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The sinfulness of worshipping God with men's institutions as it was delivered in a sermon / by Samuel Willard.</title>
+            <author>Willard, Samuel, 1640-1707.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 40 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A66110</idno>
+            <idno type="STC">Wing W2295</idno>
+            <idno type="STC">ESTC W24933</idno>
+            <idno type="EEBO-CITATION">11259472</idno>
+            <idno type="OCLC">ocm 11259472</idno>
+            <idno type="VID">47198</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A66110)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 47198)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1452:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The sinfulness of worshipping God with men's institutions as it was delivered in a sermon / by Samuel Willard.</title>
+                  <author>Willard, Samuel, 1640-1707.</author>
+               </titleStmt>
+               <extent>[2], 29 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Benjamin [Harris and John Allen,</publisher>
+                  <pubPlace>[Boston, Mass.] :</pubPlace>
+                  <date>1691]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: pages faded and torn with loss of print.</note>
+                  <note>Part of t.p. lacking. Imprint given by Wing.</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Worship.</term>
+               <term>Theology, Practical.</term>
+               <term>Sermons, American --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-04</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-04</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:47198:1" rendition="simple:additions"/>
+            <pb facs="tcp:47198:1" rendition="simple:additions"/>
+            <p>THE Sinfulneſs of Worſhipping GOD With Men's INSTITUTIONS As it was Delivered in a SERMON By <hi>Samuel Willard,</hi> Teacher of a Church in <hi>BOSTON.</hi>
+            </p>
+            <q>
+               <bibl>1 Cor. 11. 23.</bibl> 
+               <hi>For I have received of the Lord, that which I alſo delivered unto you.</hi>
+            </q>
+            <q>
+               <bibl>Mat. 28. 20.</bibl> 
+               <hi>Teaching them to obſerve all this whatſoever I have commanded ye</hi>
+            </q>
+            <p>Printed by <hi>Benjamin</hi> 
+               <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the <hi>Londo</hi> 
+               <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:47198:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:47198:2"/>
+            <head>The Sinfulneſs of Worſhipping GOD With Men's INSTITUTIONS</head>
+            <epigraph>
+               <q>
+                  <bibl>Mat. 15. 9.</bibl> But in vain do they worſhip me, teach<g ref="char:EOLhyphen"/>ing for Doctrines the Commandments of Men.</q>
+            </epigraph>
+            <p>THe Scribes and Phariſces bare inveterate malice againſt Chriſt, for his ſearching Doctrines, by which he detected them of groſs Hypocriſy: and the more confirmation he gave thereunto by his Miracles, the deeper rooting did their prejudice take in their hearts; and becauſe his ſpotleſs Converſation ſecured him from any impeachment, referring to the Law of God: they ſought occaſion againſt him with reſpect to the Cuſtoms of men: accordingly in the begining of this chapter, they are brought
+<pb n="2" facs="tcp:47198:3"/> In picking a quarrel with him becauſe <hi>his Diſ<g ref="char:EOLhyphen"/>ciples did not waſh their hands before they ſat down to their meals:</hi> the pretence on which they ground their conteſt, is, that it <hi>was againſt the tradition of the Elders;</hi> they plead <hi>Antiquity</hi> for it, and the Authority of the <hi>Sanhedrim,</hi> which to neglect, they account a ſcandal: and they ſuppoſe that Chriſt was to blame for this O<g ref="char:EOLhyphen"/>miſſion of his Diſciples, either for prohibiting, or at leaſt not commanding them: Chriſt therefore undertakes the Juſtification of them and himſelf; they did well to omit this Cere<g ref="char:EOLhyphen"/>mony; and that, not only becauſe it was an indifferent thing, and for that reaſon it ought not to be accounted a matter of ſcandal for any to neglect it: But alſo, as it was, in the cir<g ref="char:EOLhyphen"/>cumſtances of it, a thing unlawful for them to do; as the whole of his reply carrioth it: This Cuſtom among the Jews was not a thing meerly civil, but was made Religious, and had a Sym<g ref="char:EOLhyphen"/>bolical Holineſs affixed to it, and by preſcripti<g ref="char:EOLhyphen"/>on, it was now grown a Ceremony in Worſhip; and men were eſteemed Ceremonially defiled, who did not attend it; and by this means it became unlawful.</p>
+            <p>Chriſt in his reply, uſeth Arguments <hi>ad homi<g ref="char:EOLhyphen"/>nem,</hi> and <hi>ad rem. 1. Ad hominem;</hi> verſe 3. to 7. they of all men, had no reaſon to be offend<g ref="char:EOLhyphen"/>ed, for they were notorious Offenders, in that they <hi>had made void the command of God by their
+<pb n="3" facs="tcp:47198:3"/> Traditions:</hi> which he exemplifies in the fifth <hi>Command,</hi> they had their <hi>beams in their own eyes,</hi> and therefore very unfit to <hi>pluckout Motes in others,</hi> if there were any. 2. <hi>Ad rem,</hi> where:</p>
+            <p n="1">1. He diſcovers the Hypocriſy of their Tra<g ref="char:EOLhyphen"/>ditional Worſhip <hi>verſ.</hi> 7, 8, 9.</p>
+            <p n="2">2. He inſtructs the Auditory in the vanity of this particular Tradition, <hi>verſ.</hi> 10, to 21.</p>
+            <p>In his Taxing them with Hypocriſy, he re<g ref="char:EOLhyphen"/>fers them to the Prophet, who had laid the ſame charge to their Fore-fathers, for the very ſame reaſon: and it refers to, <hi>Iſa.</hi> 29. 13. Here are two things in which this their Hypocriſy is detected.</p>
+            <p n="1">1. Their putting of God off with Lip Ser<g ref="char:EOLhyphen"/>vice, whilſt their hearts were abſent, <hi>ver.</hi> 8</p>
+            <p n="2">2. Their introducing of Humane Inſtitutions into the Worſhip of God.</p>
+            <p>In the words then there are two things,</p>
+            <p>1 The ſin which is here reproved; <hi>Preach<g ref="char:EOLhyphen"/>ing for Doctrines the Commandments of men,</hi> i. e. introducing Humane Inſtirutions into, and ma<g ref="char:EOLhyphen"/>king them parts of Divine Worſhip:</p>
+            <p>Here obſerve;</p>
+            <p n="1">1. The ſubject matter about which this Sin was converſant; <hi>The Commandments of men;</hi> i. e. mens Inventions, by which he doth not under<g ref="char:EOLhyphen"/>ſtand civil laws reſpecting civil Government; for they were not wont to be men's Texts to
+<pb n="4" facs="tcp:47198:4"/> Preach upon, and as for the Authority of Ru<g ref="char:EOLhyphen"/>lers to Enact ſuch Laws; Chriſt never called it into queſtion: Nor yet can he intend the <hi>civil Sanctions</hi> which are put upon <hi>Divine Inſtitutions</hi> by Humane Authority, for this alſo is to be ac<g ref="char:EOLhyphen"/>counted warrantable, as well from Scripture-precept, as the Example of Godly Rulers in all the Ages of the Church of God; but that which he intends, is <hi>things deviſed by men, and impoſed as parts of Worſhip, which are no where commanded by God:</hi> ſuch a thing was this under debate, <hi>viz.</hi> the waſhing of the hands before meat.</p>
+            <p n="2">2. The ſin which he chargeth them with on this account, <hi>Teaching Doctrines.</hi> The word tranſlated, <hi>Teaching,</hi> is uſed in the New Teſta<g ref="char:EOLhyphen"/>ment for <hi>Preaching the Goſpel;</hi> and the word tranſlated, <hi>Doctrines,</hi> is uſed for the <hi>Articles of Religion,</hi> it therefore intends, a Preaching of theſe up, as matters of Conſcience, and binding them upon men as Duties incumbent on them, on whatſoever pretext They were the <hi>Scribes</hi> and <hi>Phariſees</hi> whom our Saviour had now to do withal; who pretended to be Teachers of others; it was therefore a ſpecial ſin they were under the guilt of, that they bound theſe burdens on mens Conſciences, by pleading mens authority to make Traditions, and impoſe them upon o<g ref="char:EOLhyphen"/>thers; but he alſo inſinuates, that, as it was their ſin to teach ſuch things to the people; ſo
+<pb n="5" facs="tcp:47198:4"/> it was no leſs a ſin in others to receive, and practice according to ſuch Teachings: for this whoſe Diſcourſe is brought in to juſtify his Diſciples for Non-compliance with them; and himſelf for prohibiting them ſo to do.</p>
+            <p>2. The reproof it ſelf is contained in the ſharp cenſure which he paſſeth upon this ſin; <hi>viz.</hi> that it is <hi>vain worſhip.</hi> The word ſignifies that which is <hi>to no purpoſe, frivolous, loſt labour,</hi> that will do the perſon no good at all, which is idle and impertinent; and it may have reſpect either:</p>
+            <p>1. To the worſhip it ſelf, that it is fooliſh, and therefore not to be admitted; or,</p>
+            <p>1. To the Worſhippers, that they do ſpoll their whole Worſhip by ſuch Additaments, it makes all the reſt to be to little or no purpoſe; it is a dead fly in the Oyntment.</p>
+            <p>From the words we may rationally infer this:</p>
+            <div type="part">
+               <head>DOCTRINE <hi>Mens Inſtitutions cannot be admitted and practiced in the Worſhip of God, without incurring the guilt of a very great ſin.</hi>
+               </head>
+               <p>There is not only a ſin committed by them that invent, and appoint them, nor only by
+<pb n="6" facs="tcp:47198:5"/> them that preach them up, and tye them upon mens Conſciences; of which, it is not my pre<g ref="char:EOLhyphen"/>ſent buſineſs to treat; but it is alſo no ſmall ſin in thoſe that comply with, and yield confor<g ref="char:EOLhyphen"/>mity to them.</p>
+               <p>In the clearing up of this Doctrine, we may enquire,</p>
+               <p n="1">1. What we are here to underſtand by the Inſtitutions of men?</p>
+               <p n="2">2. Wherein the ſin under conſideration doth conſiſt?</p>
+               <p n="3">3. How it appears to be ſo very great a Sin?</p>
+               <p>1. <hi>What we are here to underſtand by the Inſtitutions of men?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Whatſoever is made a part of Religious Worſhip wholly by Humane Authority. Here we muſt obſerve,</p>
+               <p n="1">1. The head which it properly refers to, viz. <hi>Religious worſhip.</hi> There are the ordinan<g ref="char:EOLhyphen"/>ces of men, which we are in the Scripture Commanded to yield Obedience unto, and that for <hi>Conſcience ſake:</hi> Civil Government is doubt<g ref="char:EOLhyphen"/>leſs of Gods appointment; and as Rulers ought to make the moral Law the Rule of their Go<g ref="char:EOLhyphen"/>verning ſo there are divers Prudentials about which they have authority from God, to enact ſuch Laws as are moſt conducible to the benefit of their Subjects: but this is of another nature, Now in worſhip we conſider, either the <hi>object of it,</hi> and that is God only, or the matter and the
+<pb n="7" facs="tcp:47198:5"/> 
+                  <hi>Media,</hi> and they are either <hi>Natural</hi> or <hi>Inſtitut<g ref="char:EOLhyphen"/>ed;</hi> the latter of theſe is here ſpecially reſpe<g ref="char:EOLhyphen"/>cted; <hi>viz.</hi> thoſe external ways and means by which this Worſhip is to be paid unto God: theſe are in Scripture called <hi>Ordinances</hi> and <hi>Commands,</hi> by a ſpecial appropriation: and be<g ref="char:EOLhyphen"/>cauſe they are ſo, they muſt depend upon ſome Authority that doth command them, and this muſt both appoint and give a Sanction to them.</p>
+               <p n="2">2. The reference which it bears to this head; it is made a part of it, we are warily to diſtin<g ref="char:EOLhyphen"/>guiſh between that which is <hi>Eſſential,</hi> and that is meerly <hi>accidental,</hi> or a common adjunct: Man is to be conſidered, not only as he is Re<g ref="char:EOLhyphen"/>ligious, but alſo as he is a man: and in this laſt reſpect, there are many things that are in<g ref="char:EOLhyphen"/>ſeparable from his actions, and for that reaſon, are common to all both <hi>natural, civil,</hi> and <hi>reli<g ref="char:EOLhyphen"/>gious:</hi> ſuch as <hi>time,</hi> and <hi>place,</hi> and what elſe of like nature: and therefore their conſideration in Religion is not Eſſential, but Accidental to it, and that have a meer civil reſpect in it: and are directed to by the Law of nature, and common prudence is to direct men in their <hi>uſage</hi> of them; though theſe alſo, when they have a religious reſpect put on them, are made eſ<g ref="char:EOLhyphen"/>ſential, and come under the things our Saviour here refers to: But a thing may then be ſaid to be made a part of Worſhip, when it hath ſuch an <hi>Holineſs</hi> put upon it, as to be re<g ref="char:EOLhyphen"/>puted
+<pb facs="tcp:47198:6"/> a <hi>medium</hi> of our <hi>Communion with God?</hi> and this is not to be judged of, by what men ſay of it, but by the neceſſary conſequence of the uſage of it: of this nature were all the Obſervances of the Ceremonial Law of Old, &amp; they continued to be ſuch, till ſuch time as Chriſt aboliſhed them; and ſuch was this uſage which he here condemns in our Context: it was not the waſhing of their hands at meals, as it was a point of civility and outward clean<g ref="char:EOLhyphen"/>lineſs, that our Saviour was offended at, or would ever have found fault withall; but it was for their placing of a <hi>Ceremonial Holineſs</hi> in this <hi>Tradition,</hi> thinking that God was a great deal more Honoured by them that did it, than by ſuch as omitted it: which Opinion of their removed it from among <hi>Civils,</hi> and placed it among <hi>religious</hi> things.</p>
+               <p n="3">3 When its being ſo made depends wholly up<g ref="char:EOLhyphen"/>on Humane Authority. <hi>Natural Worſhip</hi> is ſuch as the nature of the object to whom, &amp; of the ſubject by whom it is to be performed, doth require, and is therefore taught by the light of nature: ſuch is Prayer to God, fearing and reverencing him, <hi>&amp;c.</hi> But <hi>Inſtituted Worſhip,</hi> is ſomething that is <hi>poſitive,</hi> and muſt needs there<g ref="char:EOLhyphen"/>fore depend upon ſome Authority: it is for that reaſon a duty, becauſe it is enjoyned, and muſt ſuppoſe a power in him who doth enjoyn it, ſo to do: Now a thing may be ſaid to be made by
+<pb n="9" facs="tcp:47198:6"/> the Inſtitutions of men, when not only the <hi>in<g ref="char:EOLhyphen"/>junction,</hi> but alſo the <hi>deviſing</hi> of it proceeds from them. In this reſpect <hi>Jeroboam</hi> is ſaid to <hi>offer Sacrifice in a month which he deviſed in his own heart, 1 Kings 12.</hi> ult. not only the impoſi<g ref="char:EOLhyphen"/>tion, but the thing impoſed derives from men: they firſt invent, and then they command it and it may be ſaid thus to be commanded, not only when lawful authority do paſs it into a Ordinance, and give it a Sanction, by affixing penalties to the neglect of it; but alſo, when by Cuſtom or Tradition, it is ſo brought into practice of a people, that it becometh a ſcan<g ref="char:EOLhyphen"/>dal to any that ſhall omit it, and they are looked upon to be irreligious for not carefully complying with it; and ſuch was the preſent caſe in our Context;</p>
+               <p>
+                  <hi>Q.</hi> Wherein the ſin under our conſideration doth conſiſt?</p>
+               <p>A. 1. <hi>We may conſider it negatively,</hi> And here,</p>
+               <p n="1">1. It doth not neceſſarily ſuppoſe a change of the object; though it may be ſo interpreta<g ref="char:EOLhyphen"/>tively, for <hi>God is not pleaſed to acknowledge that to be done to him, which is not done by his order,</hi> but ſtill, it may be profeſſedly devoted to the honour of the true God, ſo was that feaſt, <hi>Exod.</hi> 32. 5. Men may pretend a <hi>true object,</hi> and yet uſe a <hi>falſe medium:</hi> it is left as a mark of infamy upon the Jews, that they <hi>offered Sa<g ref="char:EOLhyphen"/>crifice
+<pb n="10" facs="tcp:47198:7"/> in the high places,</hi> (places which they had <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nſecrated of their own heads, and put holi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſs upon;) although it <hi>it was only to the true <gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>d,</hi> 2 Chron. 33. 17.</p>
+               <p n="2">2. Nor are they only guilty, that wholly lay <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ide the inſtitutions of God, and ſurrogate the <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ventions of men in their room. The Jews, <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>der their greateſt Apoſtaſy, kept up Temple<g ref="char:EOLhyphen"/>worſhip, obſerved the days that were of Gods <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wn appointment, attended on the ſtated feaſts, <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>fered thoſe ſacrifices which had been appoint<g ref="char:EOLhyphen"/>ed them by <hi>Moſes,</hi> (though poſſibly they were not ſo carefull and conſtant in them,) but they <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>acked their own Traditions to them, and ſo made a mixture of one and the other; men may go to the Houſe of God, and attend upon his Worſhip in thoſe Ordinances which he hath Inſtituted, and they may annex unto them a worſhip which he never gave any Order about: the men that offered in the high places, came to the Temple too.</p>
+               <p>2. Poſitively, in two things.</p>
+               <p n="1">1. When men have any manner of fellow<g ref="char:EOLhyphen"/>ſhip with ſuch a worſhip as this is. Any thing wherein we partake with others, in that which is ſinful, is a ſin, and renders us guilty of that very ſin; hence we have that Dehortation, <hi>Eph. 5. 11. Have no fellowſhip with</hi>
+                  <pb facs="tcp:47198:7"/> 
+                  <hi>the unfruitful works of Darkneſs,</hi> and men do contract ſuch a fellowſhip, more ways then one; it is done, not only by performing the ſame things, our ſelves, and placing Religion upon them, but by our being preſent at ſuch Wor<g ref="char:EOLhyphen"/>ſhip and thereby Joyning in it with them that ſo do, and ſo far countenancing of them in it: Our preſence being a ſignal Approbation, whilſt we no ways repro<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e it; or by our plea<g ref="char:EOLhyphen"/>ding for ſuch things as lawful in themſelves, and therefore not abſolutely to be condemned in thoſe that practiſe them, or by our allowing of thoſe that are under our watch and com<g ref="char:EOLhyphen"/>mand to give their attendance on ſuch a Wor<g ref="char:EOLhyphen"/>ſhip as that is.</p>
+               <p n="2">2. When we pin our faith for any part of Worſhip that we do perform, on the autho<g ref="char:EOLhyphen"/>rity of men. Suppoſe the thing it ſelf be really a part of the worſhip which is of Divine Inſtitutions, yet if we do not <hi>ſearch the Scriptures to ſee whether it be indeed ſo</hi> or o<g ref="char:EOLhyphen"/>ther-wiſe, as thoſe <hi>Noble Bereans</hi> did, for which they are commended, <hi>Acts.</hi> 17. 11. but contentedly take it upon truſt, and all the pretence we can plead for our doing of it, is that ſuch and ſuch, Holy, wiſe, able, Lear<g ref="char:EOLhyphen"/>ned Men ſo practiſed, we incur this cenſure juſtly; I know there is a good reſpect to be had for ſuch men, and great uſe to be made of them; but ſtill, if their authority, and ſo ſay<g ref="char:EOLhyphen"/>ing
+<pb n="12" facs="tcp:47198:8"/> be the Baſis on which we lay the ſtreſs of our practice, and the higheſt reaſon we can give for it, this is to worſhip God, not for his Au<g ref="char:EOLhyphen"/>thority, but on Humane Authority; ſo that though it ſhould be Gods Worſhip in it ſelf, yet it becomes man's inſtitution as it is attend<g ref="char:EOLhyphen"/>ed by us.</p>
+               <p n="3">3. How it appears to be ſo very great a Sin?</p>
+               <p>
+                  <hi>A.</hi> That it is really a ſin thus to do, will be evident by making it out to be a great ſin; and that will be cleared by conſidering of thoſe Rules by which the greatneſs of a ſin is to be judged of, which I ſhall here inſtance only in three particulars.</p>
+               <p>1. We may judge of the greatneſs of it by the diſhonour that is done to God by it: All ſin re<g ref="char:EOLhyphen"/>ceives its true denomination in <hi>that it is againſt God,</hi> and the malignity of it doth properly conſiſt, in that it is a coming <hi>ſhort of his glo<g ref="char:EOLhyphen"/>ry:</hi> and for this cauſe, the more he is diſhon<g ref="char:EOLhyphen"/>oured by it, the more agravated it muſt needs be.</p>
+               <p>Now there are theſe conſiderations that may be had of of this ſin in this reſpect.</p>
+               <pb n="13" facs="tcp:47198:8"/>
+               <p n="1">1. That it is a ſin againſt the <hi>Second Com<g ref="char:EOLhyphen"/>mand</hi> of the firſt Table.</p>
+               <p>Now All ſins that are againſt the firſt Table, are more directly againſt God; he being the next and immediate object of it, whereas the next object of Second Table Duties is our Neighbour, all the Duties of this Table are to be done by us, not only for him as our Lord, and Law-giver for ſo are the other alſo, but to him, as he on whom they are to Terminate; if then we pray, we muſt pray to God, if we faſt we are to do it to him; that therefore is the fault found in them, <hi>Zech. 7. 5. that they did it not to him.</hi> Now the ſecond command hath a proper aim at inſtructing us about inſti<g ref="char:EOLhyphen"/>tuted Worſhip: In the firſt we are told whom we are to Worſhip; and what is that Natural Worſhip which is due to him; in the ſecond, What manner of Worſhip he will have paid him by us; it therefore enjoyns us to take his Directions in it, and to receive the Command from his mouth, not daring <hi>to add to, or to take away any thing from it,</hi> hence there are ſo many ſerious and ſolemn cautions given about it, <hi>Deut- 4. 2. 12, 32. Prov. 30. 6.</hi> &amp; elſewhere.</p>
+               <p n="2">2 Hence it is a Sin that is directly againſt the <hi>Divine Prerogative:</hi> when God gave his poſi<g ref="char:EOLhyphen"/>tive Commandment, to his people of old, he was pleaſed to fet his name to them, as a King doth to his Royal Edicts; <hi>I Am the LORD:</hi>
+                  <pb n="14" facs="tcp:47198:9"/> herein manifeſtly intimating that the autho<g ref="char:EOLhyphen"/>rity of all ſuch Inſtitutions depends, entirely upon his Prerogative, that the Obligation of them lies in his being Lord and Law-giver to his People, ſo that for any to undertake in this matter to make any ordinances of their own heads in worſhip, and bind them upon mens Conſciences, is an Invaſion upon his Soveraignty, of which he is very tender; and who ſhall Dare to fetch the warrant for the practiſing of any thing of this nature from any authority inferiour unto his? muſt not this of neceſſity be to put men upon Gods, Throne; and what can that be leſſe then an act of Treachery or Rebellion againſt the Crown of Heaven? and what deeper died a ble<g ref="char:EOLhyphen"/>miſh can ſin have Charged upon it?</p>
+               <p n="3">3. It calls a great Reproach upon <hi>the wiſ<g ref="char:EOLhyphen"/>dom of God.</hi> He hath made no ſmall diſplays of his wiſdom, in contriving the way where<g ref="char:EOLhyphen"/>in he will be worſhipped by his Creatures, ſui<g ref="char:EOLhyphen"/>tably and ſufficiently to anſwer his end, by Gaining to himſelf Glory, and procuring the Salvation of his Choſen: and for this reaſon <hi>Iſrael</hi> of old were ſaid to be a <hi>wiſe people;</hi> on account of their enjoying <hi>his Ordinances, Deut.</hi> 5 6. but herein we make men wiſer than God, whilſt our thus practiſing declares us to ſup<g ref="char:EOLhyphen"/>poſe that they can Meliorate his worſhip, by their adding of thoſe things to it, as if men
+<pb n="15" facs="tcp:47198:9"/> knew better than he, what is moſt advan<g ref="char:EOLhyphen"/>tageous to his Glory and our Salvation.</p>
+               <p n="4">4. It caſts a great reflection upon the <hi>Faithfulneſs of Chriſt in his Church.</hi> Moſes was a Type of Chriſt; and herein doth the Apoſtle make the paralel between the Type and the Antitype, <hi>Heb. 3. 2. that he was Faithful to him that appointed him, as Moſes was in all his Houſe.</hi> And this hath a pe<g ref="char:EOLhyphen"/>culiar reſpect unto Inſtituted Worſhip. Now we find that <hi>Moſes</hi> preſcribed by Divine Ap<g ref="char:EOLhyphen"/>pointment, the whole of that in the times, of the Law, even to the very <hi>Pins</hi> and <hi>T<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ches,</hi> and <hi>fillets,</hi> of the Tabernacle, and all this Exactly <hi>according</hi> to the <hi>Pa<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>te<gap reason="illegible" resp="#MURP" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> given him in the Mount, ſo as that nothing</hi> was wanting, or might be added: and thus muſt Chriſt have done in the Goſpel Church, or elſe the Parallel will not hold, but the Type muſt outſhine the Antitype, which it never did; that therefore was a Propheſy of Goſ<g ref="char:EOLhyphen"/>pel times though delivered in Old-Teſtament-Language, <hi>Ezek. 43. 11. ſhew them the form of the houſe, and the faſhion therof, and the goings out therof, and the comings in therof, and all the forms therof, and all the Ordi<g ref="char:EOLhyphen"/>nances therof, and all the forms therof, and all the Laws therof, and write it in their ſight, that they may keep the whole form therof, and all the Ordinances therof, and do them:</hi> where<g ref="char:EOLhyphen"/>as
+<pb n="16" facs="tcp:47198:10"/> thus to do, is to ſignifie that we acknowledg and believe that Chriſt hath omitted ſomthing that is Eſſential to his Worſhip.</p>
+               <p n="5">5. It is to <hi>impoſe upon God, and</hi> that is a great ſin. We do nothing leſs herein, than to give Laws to the great King, from whoſe mouth we ought to receive all. Acts of worſhip are deligned for Communion between God and his people; and he hath promiſed to them that do rightly worſhip him, that <hi>he will be among them and bleſs them;</hi> which is their great encouragement to give attendance to his In<g ref="char:EOLhyphen"/>ſtitutions, becauſe there is a bleſſing in them, but God hath obliged himſelf no farther than to his own Appointments; whereas in thoſe things we ſay, that God ſhall come and hold Communion with us in Mens Preſcriptions, that theſe ſhalld oblige his preſence with us; for without this ſuppoſal, Ordinances muſt loſe their proper end; and this muſt needs be the higheſt arrogancy that can be.</p>
+               <p n="6">6. Hence it is a <hi>vain Worſhip,</hi> ſo it is called; <hi>Text,</hi> and this muſt needs denominate it ſin<g ref="char:EOLhyphen"/>ful. To do any thing in vain, is folly, but to Worſhip God in vain, is groſs iniquity; and what leſs than vain muſt that of neceſſity be, in which we can promiſe to our ſelves no fellowſhip with God, or participation in his grace, except he will for our pleaſure, lay a<g ref="char:EOLhyphen"/>ſide his Prerogative, and ſubmit himſelf to the
+<pb n="17" facs="tcp:47198:10"/> preſcriptions of men? if men only were im<g ref="char:EOLhyphen"/>poſed upon, it were not ſo much; but to think to impoſe upon God, is in it ſelf-preſumption, and will prove ruine in the event.</p>
+               <p>2. We may judge of the greatneſs of this ſin, by the Diſpleaſure of God which appears againſt it; it can be no little provocation, that God manifeſts his ſore indignation at, &amp; this diſcovers it ſelf.</p>
+               <p n="1">1. In the <hi>Jealouſy</hi> which he entertains on this account Where is it that he declares him<g ref="char:EOLhyphen"/>ſelf to be a <hi>Jealous God,</hi> but in the matters of Inſtituted Worſhip? Exod. 20. 5. <hi>Solomon</hi> tells us, that <hi>Jealouſy is the rage of a man;</hi> when therefore God aſſumes it to himſelf, it muſt needs intimate his great indignation; a perſon is not wont to be jealous but in ſome<g ref="char:EOLhyphen"/>thing that he placeth a very high account up<g ref="char:EOLhyphen"/>on, and conſequently looks upon himſelf to be baſely abuſed, if he be touched in that; and thus doth God in point of this Preroga<g ref="char:EOLhyphen"/>tive, to have the acknowledgment from his people, that he alone hath the ordering of e<g ref="char:EOLhyphen"/>very part of his Worſhip.</p>
+               <p n="2">2. In the awful <hi>Threatnings</hi> which he hath Denounced againſt this ſin, we find that he hath menaced <hi>Generations to come,</hi> that they
+<pb n="18" facs="tcp:47198:11"/> ſhall feel the ſmart of their <hi>Fathers</hi> prevarica<g ref="char:EOLhyphen"/>tion upon this account. <hi>Exod.</hi> 20. 5. We ſee therefore how he threatnens the ten Tribes for <hi>making</hi> of <hi>many Altars,</hi> and <hi>building of Temples,</hi> Hoſ 8. 11, 14. the ſumme is this ſin ſhould increaſe their guilt, till it had root<g ref="char:EOLhyphen"/>ed them out; yea, when <hi>Iſrael</hi> had made the Golden Calf, which was a new mode of Wor<g ref="char:EOLhyphen"/>ſhip; and the Feaſt held to it, is called a <hi>Feaſt to Jehovah,</hi> Exod. 32. 5. God both plagued them at preſent for it, and alſo threatens them to keep it in remembrance againſt them for afterwards, verſe 34. The <hi>Jews</hi> therefore have an obſervation, <hi>I hat no Judgment ever after fell upon that people, but it had an Ounce of the Golden Calf in it.</hi>
+               </p>
+               <p n="3">3. In the ſevere <hi>Judgements</hi> which he hath executed upon men for this ſin it is well to be Remarked, that the firſt quarrel that ever God had with mankind, was about Inſtituted Worſhip; and a tranſgreſſion of a poſitive pre<g ref="char:EOLhyphen"/>cept referring to the Worſhip of God, in a <hi>Sacrament,</hi> hath filled the world with all the miſeries which to this day it groans under. <hi>Nadab and Aothu</hi> will offer up Incenſe unto God with ſtrange fire, and it brought them to a ſtrange and ſudden end, <hi>Gideon's Ephod be<g ref="char:EOLhyphen"/>came a Snare to his houſe,</hi> and it coſt the lives of ſixty nine of his Sons. <hi>Jeroboam</hi> dedica<g ref="char:EOLhyphen"/>ted
+<pb n="19" facs="tcp:47198:11"/> his <hi>golden Calves</hi> to the Worſhip of God, and it rooted out every branch of his family, and at length carried the whole Land into Captivity. And theſe things are written for our Learning; the <hi>Jealouſie</hi> of God hath many times <hi>burnt like a fire,</hi> and conſumed root and branch of ſuch as have thus tempted him.</p>
+               <p>3. It may alſo be ſeen in the <hi>harm</hi> that men do to themſelves by it; and this is conſequent upon the former. Men <hi>ſin againſt their own Souls</hi> by thus doing; and that is a great ſin; and this harm will eſpecially appear in three things.</p>
+               <p n="1">1. They certainly loſe all the labour and coſt that they lay out upon ſuch Worſhip; this alſo is implied in calling of it <hi>
+                     <g ref="char:V">Ʋ</g>uin Wor<g ref="char:EOLhyphen"/>ſhip;</hi> and this loſs brings unknown damage along with it. In matters of Worſhip, men are more peculiarly concerned for the further<g ref="char:EOLhyphen"/>ing of their own Salvation; it is therefore a Spiritual Loſs that men ſuſtain by this: if they worſhipped God aright, how much might they forward their everlaſting good by it? for it would afford them the opportunity of the neareſt Communion with God, that is to be enjoyed before ſuch time as the <hi>Glaſs</hi> ſhall be removed, and he be <hi>ſeen face to face;</hi> but now they do nothing at all towards this: they do but trifle in matters of Eternity: and by
+<pb n="20" facs="tcp:47198:12"/> reaſon of this they come to ſuſtain an Eter<g ref="char:EOLhyphen"/>nal Loſs.</p>
+               <p n="2">2. It hazards our loſing the good of the Inſti<g ref="char:EOLhyphen"/>tutions of God. The words of our Text ſeems to intimate, as if the whole Worſhip were rendred <hi>vain</hi> by this mixture, and truly it cannot be denied to be a Righteous Judg<g ref="char:EOLhyphen"/>ment of God, to withdraw that bleſſing from his own Inſtitutions, which hath its abſolute dependance upon his Influence, with reſpect to thoſe that are fond of interweawing Hu<g ref="char:EOLhyphen"/>mane Inventions with them; nay, uſually, when they lay themſelves out ſo much upon theſe, they too often neglect the right im<g ref="char:EOLhyphen"/>provement of the other; and are not ſeldom puniſhed by God, in being left to fall into all ſorts of <hi>Immoralities:</hi> this ſin very ſeldome goes alone, but is wont to have a Train of o<g ref="char:EOLhyphen"/>ther grievous ſins attending upon it; and this is according to God's fore warning, Pſal. 81. 11, 12. <hi>Iſrael would none of me, ſo I gave them up to their own hearts luſts.</hi>
+               </p>
+               <p n="3">3. Men by thus doing expoſe themſelves to the danger of being deprived of Gods inſti<g ref="char:EOLhyphen"/>tutions, when men cannot reſt ſatisfied with Gods appointments, but they muſt have more, and ſuch as come out of a mint which hath no warrant for the Coining them; he often
+<pb n="21" facs="tcp:47198:12"/> Righteouſly takes theſe away from them partly by leaving them gradually to lay them aſide, firſt one, and then another; be<g ref="char:EOLhyphen"/>cauſe it may be, both cannot be conveni<g ref="char:EOLhyphen"/>ently attended; Mens Commandments, Thruſt out Gods Inſtitutions; The <hi>Altar of Damaſ<g ref="char:EOLhyphen"/>cus</hi> juſtles away the <hi>Brozen Altar,</hi> and it muſt now be put in a corner, &amp; ſerve only for ſome private Devotions; partly by bringing of Deſolating Judgments which lay all waſt: thus the Kingdom of Judah, in time loſt their Temple, and Altar, and Sacrifices, and were carried into a fearful Captivity, and this ſin was a leading one to the procuring of theſe Diſmal Calamities.</p>
+            </div>
+            <div type="part">
+               <head>USE I. For Information in two particulars.</head>
+               <p n="1">1. That indifferncy in the matter is not ſufficient to juſtify a Tradition in Worſhip: for what though the thing it ſelf be not a ſin to be done civily; yet by being made a commandment, which borrows its Authority from men, and ſo thruſt into the Worſhip of God as a part of it; it now becomes a piece of <hi>vain Worſhip:</hi> what can be more indifferent
+<pb n="22" facs="tcp:47198:13"/> than <hi>waſhing one's hands</hi> in order to eating our food; the thing hath no harm in it at all; yea, it may ſometimes occaſionally be a point of cleanlineſs and good manners to do it, when the not doing it would be offenſive to our own and others Stomachs: but if this once come to have <hi>Religion</hi> put upon it, and it muſt be accounted a Note of greater Sanctity in them that do it, and a Token of unholineſs in ſuch as neglect it, expoſing them to ſcandal, now Chriſt will by no means admit that his Diſciples ſhould practiſe it: Had it been only a civil cuſtome of the Nation; he would ne<g ref="char:EOLhyphen"/>ver have found fault with it ſuch as was of<g ref="char:EOLhyphen"/>fering them water to waſh their feet, he there<g ref="char:EOLhyphen"/>fore reflects on him: <hi>Luke</hi> 7. 84 but he cen<g ref="char:EOLhyphen"/>ſures and condemns this, and good reaſon, for it is <hi>vain,</hi> a man can get no good by it, nor do God any honour with it; it therefore doth not ſerve to any end of purpoſe at all, but wholly falls ſhort of the very deſign of Worſhip: a plea therefore from indifferency in the thing is vain, for the excuſing, much more for the warranting of any Tradition, which by the commandment of men <hi>loſeth its indifferency, and is tied as a burden on mens Con<g ref="char:EOLhyphen"/>ſciences.</hi>
+               </p>
+               <p n="2">2. That a Divine Precept is neceſſary to warrant every part of Religious Worſhip.
+<pb n="23" facs="tcp:47198:13"/> Inſtituted Worſhip muſt be able to prove its Legitimacy by Inſtitution, for, becauſe it's not natural but poſitive, it depends upon Authority: its obligation therefore can be of no greater ſtrength than the Authority of its Author can put upon it; &amp; that muſt be foun<g ref="char:EOLhyphen"/>ded in his right to command it; all inſtructi<g ref="char:EOLhyphen"/>ons derive their Authority either from God, or the Creature: if it be from God, then he hath ſignified his mind about it in ſcripture, and that in particular; for he hath no where by any general indulgence given away this liberty of his to any other Authority in the world, to have the dominion of the Conci<g ref="char:EOLhyphen"/>ences of men, or to give rules of worſhip; but hath on the one hand ſtrongly prohibited it and ſeverely threatned any that ſhall pre<g ref="char:EOLhyphen"/>ſume to do it; if then any ſuch derive from men let them ſhew their Authority, if they expect them to be entertained; The Autho<g ref="char:EOLhyphen"/>rizing of any part of worſhip belongs to the <hi>ſecond,</hi> and not to the <hi>fifth Command;</hi> and muſt for that reaſon have a Divine War<g ref="char:EOLhyphen"/>rant. Hence it follows that there is nothing to be received by us on this account, but what hath God's Scale affixt to it: it is therfore enough to ſet us down reſolved againſt any ſuch thing; if we can ſay there is a ſilence about it in the ſcripture; that God hath no<g ref="char:EOLhyphen"/>where Commanded it in his word, either ex<g ref="char:EOLhyphen"/>preſly
+<pb n="24" facs="tcp:47198:14"/> or by juſt and neceſſary conſequence, it is no order of his deviſing: Scripture ſilence about any Tradition, gives it a full con<g ref="char:EOLhyphen"/>demnation whatever pleas men may bring for the juſtification of it: although they may pretend that it is very profitable, that many have bin edified by it; that it is a very pru<g ref="char:EOLhyphen"/>dent way to ſecure the Intereſts of Religion, that many wiſe, holy and learned men have pleaded for and practiſed it, that there is much of decency in it, and the thing in it ſelf is no ways harmful: all this is fully an<g ref="char:EOLhyphen"/>ſwered with that one word, <hi>God hath ſpoken nothing about it, Heh. 7. 14. it never entred into his heart to enjoyn it, Jer. 7. 31.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>USE II.</head>
+               <p>This may put us upon asking whether God manageth no part of his controverſy with us upon this account. It is a time wher<g ref="char:EOLhyphen"/>in God is making diſcoveries of his Holy diſpeaſure againſt us, in a whole ſeries of frowning Providences that we are labouring under, witneſſing that he is not a little offen<g ref="char:EOLhyphen"/>ded at this his people; it is therefore a time for deep heart ſearching, and in the doing of it, it will not be a miſs to make a little enquiry for this ſin among the reſt: poſ<g ref="char:EOLhyphen"/>ſibly
+<pb n="25" facs="tcp:47198:14"/> it may be ſuppoſed that of all the ſins that a people of God are wont to be charg<g ref="char:EOLhyphen"/>ed withal, theſe Churches are leaſt guilty in this Article, of any: however if we look narrowly, there may for ought I know be enough to humble us before God, and put us upon Repentance; it may be we may find ſome that have willingly and upon choice, exchanged the more pure worſhip of God, for that which is more mixt, and had much rather to ſerve Him at an high place, than at the Sanctiuary: are there not they that have obſerved days of Humane conſecra<g ref="char:EOLhyphen"/>tion, and put a title of Holineſs upon them, though they have expreſſed little of it in the manner of their obſervation? It may be there are Traditions, by cuſtom grown into Ordi<g ref="char:EOLhyphen"/>nances, gotten at leaſt into ſome of our Chur<g ref="char:EOLhyphen"/>ches, which can ſhew no warrant under Chriſts hand to authorize them, and yet it hath been an offence not to comply with and cry them up; hath there not been too much of a pin<g ref="char:EOLhyphen"/>ning our Faith on the credit or practice of others, attended on, with a woful neglect of ſeeking to know what is the mind of Chriſt in it?</p>
+               <p>This I am ſure of, that an aſpiring mind is Natural to Fallen Man, and will be ſtirring whilſt there is Corruption in us, and this is greatly delighted in tampering with things
+<pb n="26" facs="tcp:47198:15"/> that are above us, and particularly to be patching in Religion; but let us beware to our ſelves in this, <hi>The God we have to do with is a jealous God;</hi> and if there be any ſuch thing, we had need very carefully look after it and remove it, God will elſe Charge us ſor <hi>com<g ref="char:EOLhyphen"/>mitting of Lowdneſs,</hi> and deal with us accord<g ref="char:EOLhyphen"/>ingly.</p>
+            </div>
+            <div type="part">
+               <head>USE III.</head>
+               <p>Be we then Exhorted to avoid this ſin, ſo far as there may have bin any Guilt contracted, if not willingly and knowingly, yet if igno<g ref="char:EOLhyphen"/>rantly and through neglect, let us repent of and turn from it, and let us ſet our ſelves more ſtrenuouſly againſt it for the time for<g ref="char:EOLhyphen"/>ward: is it a ſin ſo great? let not us then think it little, or our ſelves to be out of the danger of falling into it; and to move us to be the more careful in our endeavours againſt it, let us conſider,</p>
+               <p n="1">1. There are no ſmall Temptations to it from within, and from without: the world and your own corrupt hearts have a great deal to ſay and plead, which is ſuited to the fleſh, to inſinuate into you unto a compliance with ſuch things: theſe things are many of them adapted to the carnal wiſdom of men; and are eaſily cloathed with divers religious
+<pb n="27" facs="tcp:47198:15"/> pretences, and how many ways they are ſeem<g ref="char:EOLhyphen"/>ingly advantageous to the promoting of Pie<g ref="char:EOLhyphen"/>ty; theſe all muſt be withſtood, if you will not be bafled into this ſin: beſides there are no ſmall arguments, from the lawfulneſs of the things in themſelves, and ſcandal apt to ariſe from a non compliance with them.</p>
+               <p n="2">2. Except we thus do, we ſhall directly va<g ref="char:EOLhyphen"/>care our Fathers deſign in Planting of this Wilderneſs. It is certain, that their Errand hither was to ſequeſter themſelves into a quiet corner of the world, where they <hi>might enjoy Chriſt's unmixed Inſtitutions, and leave them uncorrupted to their Poſterity;</hi> and if this deſign of theirs were unworthy of them, and reproachful to their names; let it then be bu<g ref="char:EOLhyphen"/>ried with them, and forgotten, and no more mention made of it to ſtain their memories withal; but if it were worth their parting with ſo many comforts and conveniences of a pleaſant Land, in which they enjoyed a con<g ref="char:EOLhyphen"/>ſiderable ſhare, and the expoſing of themſelves to the ſuffering of ſo many hardſhips, and al<g ref="char:EOLhyphen"/>moſt unconquerable difficulties of an Unculti<g ref="char:EOLhyphen"/>vated Deſart, and ſo many diſcouragements caſt in their way, which were in themſelves very ungratefnl to the minds of men; let us not caſt this reproach upon it and them, which we ſhall certainly do, if we depart from the ſtrict avoidance of whatſoever Wor<g ref="char:EOLhyphen"/>ſhip
+<pb n="28" facs="tcp:47198:16"/> doth not derive from the Precept of God, and Appointment of Jeſus Chriſt: in every ſuch act, we call them fools; and this will riſe up in judgment againſt us another day.</p>
+               <p n="3">3. We cannot elſe ſtand to our explicit Covenant. That it is lawful and a duty ſor the people of God ſolemnly to enter into and renew Covenant, and that frequently referring to the matters of Gods Houſe, and to all du<g ref="char:EOLhyphen"/>ties wherein they ſtand oblig'd to ſerve him, the Scripture is full, and we have divers Ex<g ref="char:EOLhyphen"/>amples there Recorded; it being too true, that a Profeſſing People are apt to forget themſelves, and fall under neglects, and for this cauſe ought to be doing ſomething to quicken themſelves up and bind their Souls to their work: and what is this for? not to find out any new ways of worſhipping God; that would be a Conſpiracy; inſtead of a Covenant; but it is to reform any thing that is amiſs, to revive any thing that is decayed, to reſlore that which is loſt, and to ratifie that which ought to be: Now theſe Churches have de<g ref="char:EOLhyphen"/>claredly Covenanted with God, and mutually, <hi>that we will ſerve the Lord with no other manner of Worſhip, but that which he hath appointed and eſtabliſhed in his Word;</hi> and do we think that he will be trifled withal in a Covenant and Vow that hath been made by us before An<g ref="char:EOLhyphen"/>gels and men?</p>
+               <pb n="29" facs="tcp:47198:16"/>
+               <p>3. Hence our ſo doing will leave us under the Guilt of <hi>Apoſtaſy:</hi> to depart from any thing which God hath required of us, and we have Covenanted with him to perform, will cer<g ref="char:EOLhyphen"/>tainly have this brand upon it: and it will be ſo much the more aggravated, by all that light which God hath afforded to ſhew us the ſinfulneſs of ſo doing; which will take away all Cloaks from us, and there hath been not a little of that, which we have enjoyed the advantage of: yea, and that which will make it yet more provoking to God, and dangerous for us, is that this will be an <hi>Apoſtaſy</hi> in that very thing, which is the <hi>Teſt</hi> upon which God tries the <hi>Churches</hi> in <hi>New-En gland.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
